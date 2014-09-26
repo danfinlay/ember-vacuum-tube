@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'dummy',
+    modulePrefix: 'vacuum-tube',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
